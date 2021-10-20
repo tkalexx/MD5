@@ -1,0 +1,11 @@
+E:\инф.безоп\MD5\MD5\bin\Debug\netcoreapp3.0\MD5.exe
+E:\инф.безоп\MD5\MD5\bin\Debug\netcoreapp3.0\MD5.deps.json
+E:\инф.безоп\MD5\MD5\bin\Debug\netcoreapp3.0\MD5.runtimeconfig.json
+E:\инф.безоп\MD5\MD5\bin\Debug\netcoreapp3.0\MD5.runtimeconfig.dev.json
+E:\инф.безоп\MD5\MD5\bin\Debug\netcoreapp3.0\MD5.dll
+E:\инф.безоп\MD5\MD5\bin\Debug\netcoreapp3.0\MD5.pdb
+E:\инф.безоп\MD5\MD5\obj\Debug\netcoreapp3.0\MD5.csprojAssemblyReference.cache
+E:\инф.безоп\MD5\MD5\obj\Debug\netcoreapp3.0\MD5.AssemblyInfoInputs.cache
+E:\инф.безоп\MD5\MD5\obj\Debug\netcoreapp3.0\MD5.AssemblyInfo.cs
+E:\инф.безоп\MD5\MD5\obj\Debug\netcoreapp3.0\MD5.dll
+E:\инф.безоп\MD5\MD5\obj\Debug\netcoreapp3.0\MD5.pdb
